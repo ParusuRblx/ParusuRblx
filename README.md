@@ -1,16 +1,24 @@
-## Hi there 👋
+## ﾜﾎｰ🐻‍❄️
 
-<!--
-**ParusuRblx/ParusuRblx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student interested in software development and infrastructure.
 
-Here are some ideas to get you started:
+Currently learning and exploring:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,html,css,js,linux,aws" />
+<br>
+
+### Interests
+
+- Software development
+- Web technologies
+- Cloud infrastructure
+- Automation and scripting
+
+---
+
+<details>
+  <summary>GitHub Statistics</summary>
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParusuRblx&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
+
+</details>
